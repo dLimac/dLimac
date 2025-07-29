@@ -35,9 +35,9 @@
 
 <div align="center">
 
-![Carlos Lima GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&count_private=true)
+![Carlos Lima GitHub Stats](https://github-readme-stats.vercel.app/api?username=dLimac&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dLimac&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -46,9 +46,9 @@
 ## 🌐 Entre em Contato
 
 <p align="center">
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/email-contato-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Carlos_Lima-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/seu-usuario"><img src="https://img.shields.io/badge/GitHub-seu--usuario-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:dev.carloslimac@gmail.com"><img src="https://img.shields.io/badge/email-contato-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/carlos-lima-135678341/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Carlos_Lima-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dLimac"><img src="https://img.shields.io/badge/GitHub-seu--usuario-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
