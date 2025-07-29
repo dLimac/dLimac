@@ -48,7 +48,7 @@
 <p align="center">
   <a href="mailto:dev.carloslimac@gmail.com"><img src="https://img.shields.io/badge/email-contato-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/carlos-lima-135678341/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Carlos_Lima-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/dLimac"><img src="https://img.shields.io/badge/GitHub-Carlos-Lima-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/dLimac"><img src="https://img.shields.io/badge/GitHub-dLimac-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
