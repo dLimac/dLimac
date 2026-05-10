@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Carlos Lima</h1>
 
 <p align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNICESUMAR
+  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNICESUMAR<br>
   💡 Apaixonado por programação, sempre buscando evoluir e contribuir com soluções inteligentes.
 </p>
 
