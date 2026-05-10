@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Carlos Lima</h1>
 
 <p align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://portal.uniasselvi.com.br/" target="_blank">UNIASSELVI</a><br>
+  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNICESUMAR
   💡 Apaixonado por programação, sempre buscando evoluir e contribuir com soluções inteligentes.
 </p>
 
